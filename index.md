@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta charset='utf-8'>
-      <meta name='viewport' content='width=device-width'>
-      <title><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">политика конфиденциальности</font></font></title>
-      <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
-    </head>
-    <body>
     <strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">политика конфиденциальности</font></font></strong> <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                   Timoxa22000 создал приложение Чек кэшбек как приложение бесплатно. </font><font style="vertical-align: inherit;">Данная СЕРВИС предоставляется Timoxa22000 бесплатно и предназначена для использования как есть.
                 </font></font></p> <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -90,5 +81,3 @@
                    </font></font><a href="https://privacypolicytemplate.net" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">privacypolicytemplate.net</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
                   и изменена / сгенерирована
                    </font></font><a href="https://app-privacy-policy-generator.firebaseapp.com/" target="_blank" rel="noopener noreferrer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Генератором политики конфиденциальности приложения.</font></font></a></p>
-    </body>
-    </html>
